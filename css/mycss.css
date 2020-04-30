@@ -119,7 +119,7 @@ header {
 .column {
     float: left;
     width: 33%;
-    padding: 20px;
+    padding: 10px;
   }
 
   .row {
@@ -141,7 +141,7 @@ header {
   
   .featuresContainer {
         margin: auto;
-        max-width: 1413px;
+        max-width: 1301px;
   } 
 
 
@@ -335,11 +335,6 @@ section.download .badges .badge-link img {
   section.download h2 {
     font-size: 70px;
   }
-}
-
-section.features {
-  background-color: #b0bca8;
-  
 }
 
 section.features .section-heading {
